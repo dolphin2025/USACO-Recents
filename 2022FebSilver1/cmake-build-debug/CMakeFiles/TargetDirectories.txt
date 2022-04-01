@@ -1,0 +1,3 @@
+C:/Pahan/C++/2022FebSilver1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Pahan/C++/2022FebSilver1/cmake-build-debug/CMakeFiles/2022FebSilver1.dir
+C:/Pahan/C++/2022FebSilver1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
